@@ -1,0 +1,28 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="defaultCustomerName">Customer</string>
+    <string name="tipForMaxNumber">No more than 100 !</string>
+    <string name="tipForMinNumber">No less than 1 !</string>
+    <string name="textRemindForAddWhippedCream">add Whipped Cream !</string>
+    <string name="textRemindForAddChocolate">add Chocolate !</string>
+    <string name="textRemindForNoToppings">No Toppings Needed !</string>
+    <string name="newLineSymbol" translatable="false">\n</string>
+    <string name="labelTextForOrderSummary">Order Summary</string>
+    <string name="labelTextForPrice">Price</string>
+    <string name="textRemindFailedToSendOrder">Failed to Send Your Order !</string>
+    <string name="emailTitle">
+        Just Java ORDER for <xliff:g id="customerName">%s</xliff:g>
+    </string>
+    <string name="emailAddressForReceiveOrder" translatable="false">mailto:elastic48@163.com</string>
+    <string name="labelTextForCustomerName">Name</string>
+    <string name="labelTextForQuantity">Quantity</string>
+    <string name="symbolColon">:</string>
+    <string name="labelTextForTotalPrize">Total</string>
+    <string name="textRemindThankYou">Thank You !</string>
+    <string name="tipForCustomerToEnterName">Your Name</string>
+    <string name="labelTextForToppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="buttonTextForOrder">Order</string>
+
+</resources>

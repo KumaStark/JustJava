@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">星爸爸</string>
+    <string name="defaultCustomerName">顾客</string>
+    <string name="textRemindForAddChocolate">添加巧克力！</string>
+    <string name="textRemindForAddWhippedCream">添加搅打奶油！</string>
+    <string name="textRemindForNoToppings">不用添加顶盖！</string>
+    <string name="tipForMaxNumber">数量不能再多了！</string>
+    <string name="tipForMinNumber">至少喝一杯吧？</string>
+    <string name="textRemindThankYou">多谢惠顾！</string>
+    <string name="symbolColon">：</string>
+    <string name="labelTextForTotalPrize">总金额</string>
+    <string name="labelTextForQuantity">数量</string>
+    <string name="labelTextForPrice">单价</string>
+    <string name="labelTextForOrderSummary">订单信息</string>
+    <string name="labelTextForCustomerName">姓名</string>
+    <string name="emailTitle">
+        <xliff:g id="customerName">%s</xliff:g>的JustJava订单
+    </string>
+    <string name="textRemindFailedToSendOrder">抱歉，订单发送失败了！</string>
+    <string name="buttonTextForOrder">下单</string>
+    <string name="chocolate">添加巧克力</string>
+    <string name="labelTextForToppings">顶盖选项</string>
+    <string name="whipped_cream">添加搅打奶油</string>
+    <string name="tipForCustomerToEnterName">请输入您的名字</string>
+</resources>
